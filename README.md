@@ -16,6 +16,7 @@ A curated list of resources for buying small and lower-middle-market businesses:
 
 ## Valuation
 - [How to value a business: SDE & EBITDA multiples](https://serava.ai/blog) - Serava's valuation guides by industry (HVAC, MSP, optometry, property management, and more).
+- [SmartBizCalc — Business Valuation & Financial Calculators](https://smartbizcalc.com/business-valuation-calculator.html) - Free calculators for estimating business value, break-even thresholds, profit margins, and operating costs across 300+ trade, service, and professional business types. Useful for back-of-envelope checks on target HVAC, contractor, or service business financials before engaging a formal valuator.
 - SBA SOP / lender valuation norms - what acquisition lenders actually underwrite.
 
 ## Due Diligence
