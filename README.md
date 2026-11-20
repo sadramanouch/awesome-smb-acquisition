@@ -21,6 +21,7 @@ A curated list of resources for buying small and lower-middle-market businesses:
 ## Due Diligence
 - [Sell-side & buy-side due diligence checklists](https://serava.ai/blog) - Serava's diligence guides.
 - Quality-of-earnings basics - why add-backs and owner-comp normalization matter.
+- [DDScore example investment analysis report](https://www.ddscore.ai/example-report/) - A public example showing how a first-pass private-company review turns cross-checked claims and evidence gaps into follow-up questions.
 
 ## Financing
 - [U.S. Small Business Administration (SBA)](https://www.sba.gov) - 7(a) acquisition loans, the backbone of most U.S. SMB buyouts.
